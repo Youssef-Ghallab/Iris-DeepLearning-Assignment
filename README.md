@@ -1,7 +1,3 @@
-Here’s a README file template for your project that covers all the requested sections. You can customize it further as needed.
-
----
-
 # Iris Species Classification using PyTorch
 
 ## Objective
